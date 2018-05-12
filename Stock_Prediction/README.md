@@ -2,4 +2,4 @@
 ## Author: Elephantameler
 
 
-## You should complete stock_practice.ipynb
+### You should complete stock_practice.ipynb
